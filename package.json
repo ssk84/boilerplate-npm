@@ -1,10 +1,10 @@
 {
+	"name": "fcc-learn-npm-package-json",
 	"author": "Satya Sista",
 	"description": "A project that does something awesome",
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.2.0",
-	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
